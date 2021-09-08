@@ -1,7 +1,8 @@
 ---
 title: Day 1
 output: html_document
-author: "Luke Cadagin"
+author1: "Lewis Luttrell"
+author2: "Luke Cadagin"
 ---
 
 # Example Text
